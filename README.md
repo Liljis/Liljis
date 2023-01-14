@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Liljis
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me jisnyvarghese123@gmail.com
+- 👋 Hi, This is Jisny Varghese
+- 👀 A Front-end focued Web developer
+- ⚒️Tools
+    ### `JavaScript`✨  `React.js` ✨`Three.js`
+    ### `HTML`✨ `CSS` ✨`Bootstrap`
+    ### `Java`✨ `Python`✨ `Node.js`✨ `Express`
+- 📫 How to reach me 
+    - jisnyvarghese123@gmail.com
+    - https://www.linkedin.com/in/jisnyvarghese530lil/
+    - https://twitter.com/Jisny_Varghese
 
 <!---
 Liljis/Liljis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
