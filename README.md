@@ -1,6 +1,8 @@
 - 👋 Hi, This is Jisny Varghese
-- 👀 A Front-end focued Web developer
+- 👀 QA Engineer
 - ⚒️Tools
+    ### `Kotlin`✨ `JUnit`✨ `ResutAssured`
+    ### `Docker`✨ `Kubernetes`✨ `Shell Scripting`
     ### `JavaScript`✨  `React.js` ✨`Three.js`
     ### `HTML`✨ `CSS` ✨`Bootstrap`
     ### `Java`✨ `Python`✨ `Node.js`✨ `Express`
