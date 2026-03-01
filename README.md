@@ -1,5 +1,8 @@
-<h1 align="center">👋 Hi, This is Jisny Varghese</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> Hi, This is Jisny Varghese</h1>
+
 <h3 align="center">QA Automation Developer</h3>
+![git1](https://github.com/user-attachments/assets/8c51da6f-ad4a-432c-91be-0e9b129eb72e)
+
 
 - 🔭 I’m currently working at **IBM ISL, Kochi**
 
@@ -14,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-flow: row wrap; gap: 30px; justify-content: flex-start;"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a> 
+<div style="display: flex; flex-flow: row wrap; gap: 30px; justify-content: flex-start;"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
