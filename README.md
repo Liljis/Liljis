@@ -5,7 +5,7 @@
 
 <img src="https://github.com/user-attachments/assets/8c51da6f-ad4a-432c-91be-0e9b129eb72e" align="right" width="250">
  <p style="margin: 5px 0;"> - 🔭 I’m currently working at <b>IBM ISL, Kochi</b></p>
-    <p style="margin: 5px 0;"> - 💬 Ask me about <b>Cooking, Paiting, API test automation, CI/CD</b></p>
+    <p style="margin: 5px 0;"> - 💬 Ask me about <b>Cooking, Painting, API test automation, CI/CD</b></p>
     <p style="margin: 5px 0;"> - 📫 How to reach me <b>jisnyvarghese123@gmail.com</b>
 
 
