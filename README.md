@@ -5,7 +5,9 @@
     ### `Docker`✨ `Kubernetes`✨ `Shell Scripting`
     ### `JavaScript`✨  `React.js` ✨`Three.js`
     ### `HTML`✨ `CSS` ✨`Bootstrap`
+    ### `git` ✨ `github`
     ### `Java`✨ `Python`✨ `Node.js`✨ `Express`
+    ### `Postman` ✨ `HTTPie` ✨ `Tekton` ✨ `Jenkins`
 - 📫 How to reach me 
     - jisnyvarghese123@gmail.com
     - https://www.linkedin.com/in/jisnyvarghese530lil/
